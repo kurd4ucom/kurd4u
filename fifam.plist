@@ -1,0 +1,39 @@
+
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://archive.org/download/fifa-mobile-18.1.03-1706615550/FIFA%20Mobile_18.1.03_1706615550.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://archive.org/download/ce-20-ce-25-e-732-4-aec-b-5-ef-e-0-d-10-a-48024-a/CE20CE25-E732-4AEC-B5EF-E0D10A48024A.jpeg</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.ea.ios.fifamobile</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>v1</string>
+<key>title</key>
+<string> Fifa Mobile
+Telegram : HamaSade</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
